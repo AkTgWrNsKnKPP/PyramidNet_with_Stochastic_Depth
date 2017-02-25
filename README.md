@@ -1,3 +1,5 @@
+This repository is a prototype based on PyramidNet (https://github.com/jhkim89/PyramidNet)
+
 # PyramidNet_with_Stochastic_Depth
 
 This repository contains the code for the paper "Deep Pyramidal Residual Networks with Separated Stochastic Depth" (https://arxiv.org/abs/1612.01230). 
